@@ -1,0 +1,15 @@
+# Core Python libraries
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Machine learning
+scikit-learn==1.5.1
+
+# Deep learning
+tensorflow==2.17.0
+keras==3.4.1
+
+# Utilities
+joblib==1.4.2
