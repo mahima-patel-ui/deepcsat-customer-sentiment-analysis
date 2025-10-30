@@ -46,3 +46,8 @@ Each record includes:
 1. Clone the repository  
    ```bash
    git clone https://github.com/mahimapatel-ai/deepcsat-customer-sentiment-analysis.git
+👩‍💻 Author
+Mahima Patel
+Data Science Intern | Python & AI Developer
+mailto:mahimapatel523@gmail.com
+[Linkedin](https://www.linkedin.com/in/mahima-patel-051936272)
